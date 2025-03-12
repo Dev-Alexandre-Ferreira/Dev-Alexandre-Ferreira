@@ -1,6 +1,6 @@
 ##  ​👨🏾‍💻​ Alexandre Ferreira 
 
-**`Desenvolvedo Web FullStack`**
+**`Desenvolvedor Web FullStack`**
 
 Me chamo Alexandre Ferreira, tenho 22 anos e sou natural do São Paulo-SP. Atualmente, estou estudando no PROA e fazendo cursos pela Origamid. Sou apaixonado por tecnologia e compartilho meu conhecimento através do Github. 
 
@@ -52,7 +52,7 @@ Me chamo Alexandre Ferreira, tenho 22 anos e sou natural do São Paulo-SP. Atual
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Alexandre-Ferreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Alexandre-Ferreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
 </p>
