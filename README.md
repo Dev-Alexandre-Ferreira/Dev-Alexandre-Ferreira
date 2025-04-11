@@ -14,7 +14,7 @@ ___
     align="left" 
     alt="HTML"
     title="HTML" 
-height="150"
+width="30"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -22,7 +22,7 @@ height="150"
     align="left" 
     alt="CSS" 
     title="CSS"
-height="150"
+width="30"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -68,7 +68,7 @@ ___
   <img 
     align="left" 
     alt="GitHub Stats" 
-     width="420"
+   height="150"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Dev-Alexandre-Ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -77,7 +77,7 @@ ___
 <img 
       align="center" 
       alt="GitHub Stats" 
-    width="460"
+   height="150"
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Alexandre-Ferreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
