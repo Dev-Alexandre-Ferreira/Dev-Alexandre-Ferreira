@@ -86,6 +86,10 @@ Me chamo Alexandre Ferreira, tenho 22 anos e sou natural do São Paulo-SP. Atual
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Alexandre-Ferreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
+###
+
+---
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Alexandre-Ferreira/Dev-Alexandre-Ferreira/output/pacman-contribution-graph-dark.svg">
