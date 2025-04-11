@@ -87,4 +87,13 @@ Me chamo Alexandre Ferreira, tenho 22 anos e sou natural do São Paulo-SP. Atual
   />
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Alexandre-Ferreira/Dev-Alexandre-Ferreira/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Alexandre-Ferreira/Dev-Alexandre-Ferreira/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dev-Alexandre-Ferreira/Dev-Alexandre-Ferreira/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
+
 
