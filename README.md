@@ -79,7 +79,7 @@ Me chamo Alexandre Ferreira, tenho 22 anos e sou natural do São Paulo-SP. Atual
 
 
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;" 
