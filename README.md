@@ -5,7 +5,7 @@
 Me chamo Alexandre Ferreira, tenho 22 anos e sou natural do São Paulo-SP. Atualmente, estou estudando no PROA e fazendo cursos pela Origamid. Sou apaixonado por tecnologia e compartilho meu conhecimento através do Github. 
 
 
----
+___
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -59,9 +59,8 @@ Me chamo Alexandre Ferreira, tenho 22 anos e sou natural do São Paulo-SP. Atual
 
 
 <br><br/>
+
 ___
-
-
 
 ### 📊 Estatísticas
 
@@ -69,7 +68,7 @@ ___
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+     width="470"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Dev-Alexandre-Ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -78,10 +77,12 @@ ___
 <img 
       align="center" 
       alt="GitHub Stats" 
-      height="150" 
+    width="512"
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Alexandre-Ferreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
+
+
 
 ###
 
