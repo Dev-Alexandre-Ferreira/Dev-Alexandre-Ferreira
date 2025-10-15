@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web FullStack`**
 
-Me chamo Alexandre Ferreira, tenho 23 anos e sou natural do São Paulo-SP. Atualmente, estou estudando no PROA e fazendo cursos pela Origamid. Sou apaixonado por tecnologia e compartilho meu conhecimento através do Github. 
+Me chamo Alexandre Ferreira, tenho 23 anos e sou natural do São Paulo-SP. Atualmente, sigo estudando pela plataforma da Origamid e sou professor de tecnologia no projeto Transform-se do Serasa Experience em parceria com Instituto PROA. Sou apaixonado por tecnologia e compartilho meu conhecimento através do Github. 
 
 
 ___
