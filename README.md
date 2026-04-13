@@ -3,7 +3,6 @@
 **`Desenvolvedor Web FullStack`**
 
 
-
 ___
 
 ### 🤖 Linguagens e Tecnologias
